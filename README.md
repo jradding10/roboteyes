@@ -1,2 +1,4 @@
 # roboteyes
-Uses Arduino, IF remote, and IR reciever to change robot eyes on a LED display.
+Uses Arduino, IR remote, and IR reciever to change robot eyes on a LED display.
+
+
